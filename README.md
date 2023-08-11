@@ -10,5 +10,7 @@ The project has been partitioned into three distinct microservices, complemented
 The system incorporates an API gateway, serving as an external interface for users to interact with. This gateway is responsible for load balancing, routing, and facilitating communication with the various services.
 
 **Unit Testing Approach:-**
+
 -To ensure the accurate functioning of individual elements within the microservices.
+
 -Every microservice was equipped with dedicated unit tests tailored to assess both message producers and consumers operating on RabbitMQ queues.
