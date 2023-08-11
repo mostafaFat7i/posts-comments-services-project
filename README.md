@@ -1,4 +1,4 @@
-# posts-comments-services-project
+# posts & comments Microservices project
 **The construction of this project's architecture was grounded in the principles of microservices architecture.**
 
 The project has been partitioned into three distinct microservices, complemented by an API gateway that serves as the conduit through which these services are accessed.
